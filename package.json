@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://github.com/Tim1023/react-scheduler-firebase",
   "dependencies": {
+    "@firebase/webchannel-wrapper": "^0.2.7",
     "firebase": "4.6.0",
     "gh-pages": "^1.1.0",
     "history": "^4.7.2",

@@ -13,7 +13,7 @@ const propTypes = {
 function PublicLayout({children}) {
   return <div>
     <AppBar
-      title="My App"
+      title="Costa Esmeralda"
       iconElementRight={topbarButtons}
       iconStyleRight={{
         display: 'flex',
